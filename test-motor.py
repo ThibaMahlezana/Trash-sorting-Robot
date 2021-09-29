@@ -75,14 +75,5 @@ def collect_plastic():
 
 #collect_paper()
 #collect_metal()
-collect_plastic()
+#collect_plastic()
 
-'''
-def collect_metal():
-	move_forward(135, 0)
-	move_backwards(135, 0)
-
-def collect_plastic():
-	move_forward(180, 0)
-	move_backwards(180, 0)
-'''
